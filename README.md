@@ -65,9 +65,9 @@ Embed logos directly using GitHub raw URLs:
   "name": "Volkswagen",
   "slug": "volkswagen",
   "image": {
-    "thumb": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/volkswagen.png",
-    "optimized": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volkswagen.png",
-    "original": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/original/volkswagen.jpg"
+    "thumb": "https://raw.githubusercontent.com/giffunis/car-logos-dataset/master/logos/thumb/volkswagen.png",
+    "optimized": "https://raw.githubusercontent.com/giffunis/car-logos-dataset/master/logos/optimized/volkswagen.png",
+    "original": "https://raw.githubusercontent.com/giffunis/car-logos-dataset/master/logos/original/volkswagen.jpg"
   }
 }
 ```
